@@ -16,14 +16,15 @@ print(person)
 
 //Bonus
 //6
-var number: Int = 3
+var number  = 3
 print(number)
 //7
 number = number + 2
 print(number)
 //8
-number = number + 5
+number =  5 + 5
 print(number)
 //9
+
 var nums: Array = [1,8,9]
 print(nums)
